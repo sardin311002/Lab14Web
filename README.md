@@ -1,7 +1,7 @@
 | Nama          |     Sardin     |
 |-------------- | ---------------|
-| NIM           | 312010298      |
-| Kelas         | TI.20.A2       |
+| NIM           | 312010135      |
+| Kelas         | TI.20.A1       |
 | Matkul        | Pemograman web |
 
 # Pratikum 14 
